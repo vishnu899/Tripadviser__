@@ -16,6 +16,10 @@
     z-index: 1;
     
 }
+button{
+    position: absolute;
+right: 1000px;
+}
 .nis{
     position: relative;
     right: 500px;
@@ -72,10 +76,21 @@ bottom: 0px;
     padding: 10px;
     border-radius: 20px;
 }
+button{
+    left: 300px;
+    right: 0px;
+}
 
 .section{
     position: relative;
 
+}
+.fai{
+    position: relative;
+    right: 200px;
+}
+.nai{
+    right: 200px;
 }
 .cr7{
     position: absolute;
@@ -93,6 +108,9 @@ bottom: 0px;
     left: 50px;
     background-color: #34E0A1;
     border: 2px #34E0A1 solid;
+}
+.vai{
+    right: 200px;
 }
 hr{
     width: 300px}
