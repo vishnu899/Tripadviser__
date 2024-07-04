@@ -194,6 +194,16 @@ outline: none;
     ;
     
 }
+.w{
+    left: 50px;
+    position: relative;
+}
+.cocunut{
+    width: 2200px;
+    top: 200px
+    ;
+    position: relative;
+}
 .gai{
     position: relative;
 }
